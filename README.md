@@ -1,1 +1,7 @@
 ![alt text](public/img/barang.jpg?raw=true)
+![alt text](public/img/bawaan.jpg?raw=true)
+![alt text](public/img/dashboard.jpg?raw=true)
+![alt text](public/img/member.jpg?raw=true)
+![alt text](public/img/nonMember.jpg?raw=true)
+![alt text](public/img/pegawai.jpg?raw=true)
+![alt text](public/img/pembelianBarang.jpg?raw=true)
